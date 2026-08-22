@@ -1,7 +1,7 @@
 {
-  "version": "0.2.6",
-  "versionCode": 8,
-  "apk_sha256": "2537e30afe3171046025fa356ae97c316e03f18a1ffc802a13ca2a20c3c01f1f",
+  "version": "0.2.7",
+  "versionCode": 9,
+  "apk_sha256": "635aa464922704b77992c8603df7b67a4bfc7af585c4ea9ebe88b8a9aa4e23bf",
   "signer_sha256": "a357a5dc2a6c73ebf2fb84f720fa03d2a1184953cf525b388e9a49d066a0903e",
-  "published_at": "2026-08-22T04:11:18Z"
+  "published_at": "2026-08-22T04:47:58Z"
 }
